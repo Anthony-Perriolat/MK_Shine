@@ -24224,3 +24224,8 @@ a.pswp__share--download:hover {
 #rd-search-results-live #search-results .search_all a:hover {
   color: #1d3d62;
 }
+.list-providers{
+  text-align: left; 
+  padding: 15px; 
+  border-radius: 4px;
+}
