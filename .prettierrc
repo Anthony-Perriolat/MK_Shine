@@ -1,0 +1,26 @@
+{
+    "printWidth": 140,
+    "tabWidth": 2,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "semi": true,
+    "useTabs": false,
+    "overrides": [
+      {
+        "files": ["*.html", "*.htm"],
+        "options": {
+          "parser": "html",
+          "htmlWhitespaceSensitivity": "ignore"
+        }
+      },
+      {
+        "files": ["*.css"],
+        "options": {
+          "parser": "css"
+        }
+      }
+    ]
+  }
+  
